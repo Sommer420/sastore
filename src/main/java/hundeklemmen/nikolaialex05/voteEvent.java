@@ -1,7 +1,7 @@
 package hundeklemmen.nikolaialex05;
 
 import ch.njol.skript.util.Date;
-import hundeklemmen.nikolaialex05.skriptHook.classes.id;
+import hundeklemmen.nikolaialex05.classes.id;
 import org.bukkit.OfflinePlayer;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.Event;

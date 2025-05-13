@@ -1,4 +1,4 @@
-package hundeklemmen.nikolaialex05.skriptHook.classes;
+package hundeklemmen.nikolaialex05.classes;
 
 public class id {
 

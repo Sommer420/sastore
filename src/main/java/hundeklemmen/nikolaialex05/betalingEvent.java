@@ -1,11 +1,11 @@
 package hundeklemmen.nikolaialex05;
 
-import org.bukkit.event.HandlerList;
 import hundeklemmen.nikolaialex05.classes.Product;
-import hundeklemmen.nikolaialex05.skriptHook.classes.id;
+import hundeklemmen.nikolaialex05.classes.id;
 import org.bukkit.OfflinePlayer;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.Event;
+import org.bukkit.event.HandlerList;
 
 public class betalingEvent extends Event implements Cancellable {
 

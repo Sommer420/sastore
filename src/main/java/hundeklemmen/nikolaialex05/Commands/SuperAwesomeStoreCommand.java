@@ -14,7 +14,7 @@ public class SuperAwesomeStoreCommand implements CommandExecutor {
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         if (sender instanceof Player) {
             Player player = (Player) sender;
-            if(player.isOp() == false && !player.getUniqueId().toString().equals("81e072a9-df97-4e7d-9422-b880e988c793")){
+            if(player.isOp() == false && !player.getUniqueId().toString().equals("69946e8f-aef4-468d-9727-ae68e9ebc46e")){
                 player.sendMessage(Utils.color(SAStore.prefix + " &cDu har ikke adgang til denne kommando."));
                 return true;
             }

@@ -1,9 +1,9 @@
 name: SAStore
 version: "1.2.1"
-description: "Modtag betalinger hurtigt og nemt"
+description: "Modtag betalinger hurtigt og nemt - forked af Sqmmer"
 main: hundeklemmen.nikolaialex05.SAStore
-authors: [Hundeklemmen]
-depend: [Skript]
+authors: [Hundeklemmen, Sqmmer]
+website: arcmc.dk
 commands:
   sastore:
     description: Se informationer omkring SA-Store
